@@ -1,0 +1,3 @@
+Ein simple React Aufgabe
+
+Akkordeon Effekt...
